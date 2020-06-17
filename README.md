@@ -1,6 +1,6 @@
 # MERN Recipes Cooking Book
 
-This application, built using the MERN stack allows user to keep all their favorite recipes online.
+This application, built using the MERN stack, allows user to keep all their favorite recipes online.
 
 ## Installation
 
